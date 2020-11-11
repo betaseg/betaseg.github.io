@@ -1,1 +1,5 @@
 theme: jekyll-theme-minimal
+title: [BetaSeg]
+description: [Three-dimensional FIB-SEM reconstruction of microtubule-organelle interaction in whole primary mouse beta cells]
+logo: [betaseg.png]
+show_downloads: ["false"]
