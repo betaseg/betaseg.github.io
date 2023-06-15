@@ -11,4 +11,6 @@ Videos can be viewed and downloaded from [here](https://cloud.mpi-cbg.de/index.p
 ## Organelle-specific segmentation, spatial analysis, and visualization of volume electron microscopy datasets
 The first preprint version of the protocol describing all steps involved in the scientific publication linked above is available [here](https://arxiv.org/abs/2303.03876).
 
+### CellSketch
+
 Most up to date documentation on CellSketch, the part of the protocol dealing with spatial analysis and visualization, is available [here](https://github.com/betaseg/cellsketch).
